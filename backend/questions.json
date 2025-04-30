@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Какое из этих предприятий производит тракторы?",
+    "answers": [
+      {
+        "text": "МТЗ",
+        "correct": true
+      },
+      {
+        "text": "БелАЗ",
+        "correct": false
+      },
+      {
+        "text": "Гродненский мясокомбинат",
+        "correct": false
+      },
+      {
+        "text": "Кристалл",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какое из этих предприятий производит тракторы?",
+    "answers": [
+      {
+        "text": "МТЗ",
+        "correct": true
+      },
+      {
+        "text": "БелАЗ",
+        "correct": false
+      },
+      {
+        "text": "Гродненский мясокомбинат",
+        "correct": false
+      },
+      {
+        "text": "Кристалл",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какое из этих предприятий производит тракторы?",
+    "answers": [
+      {
+        "text": "МТЗ",
+        "correct": true
+      },
+      {
+        "text": "БелАЗ",
+        "correct": false
+      },
+      {
+        "text": "Гродненский мясокомбинат",
+        "correct": false
+      },
+      {
+        "text": "Кристалл",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какое из этих предприятий производит тракторы?",
+    "answers": [
+      {
+        "text": "МТЗ",
+        "correct": true
+      },
+      {
+        "text": "БелАЗ",
+        "correct": false
+      },
+      {
+        "text": "Гродненский мясокомбинат",
+        "correct": false
+      },
+      {
+        "text": "Кристалл",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какое из этих предприятий производит тракторы?",
+    "answers": [
+      {
+        "text": "МТЗ",
+        "correct": true
+      },
+      {
+        "text": "БелАЗ",
+        "correct": false
+      },
+      {
+        "text": "Гродненский мясокомбинат",
+        "correct": false
+      },
+      {
+        "text": "Кристалл",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Где расположен завод 'Гомсельмаш'?",
+    "answers": [
+      {
+        "text": "Гомель",
+        "correct": true
+      },
+      {
+        "text": "Минск",
+        "correct": false
+      },
+      {
+        "text": "Брест",
+        "correct": false
+      },
+      {
+        "text": "Витебск",
+        "correct": false
+      }
+    ]
+  }
+]

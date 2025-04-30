@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "name": "Белаз",
+    "image": "/factory1.jpg",
+    "x": 25,
+    "y": 48,
+    "shortDescription": "Производство сверх тяжёлых машин",
+    "fullDescription": "Предприятие занимается созданием самых больших машин в мире!!!"
+  },
+  {
+    "id": "1745757135472",
+    "name": "Кузбаз",
+    "image": "йфй",
+    "x": 47,
+    "y": 12,
+    "shortDescription": "фаф",
+    "fullDescription": "фа"
+  },
+  {
+    "id": "1745757329748",
+    "name": "Белаз сервис",
+    "image": "фа",
+    "x": 51.67,
+    "y": 43.39,
+    "shortDescription": "аф",
+    "fullDescription": "аф"
+  },
+  {
+    "id": "1745831192358",
+    "name": "аф",
+    "image": "аф",
+    "x": 67.57,
+    "y": 55.67,
+    "shortDescription": "аф",
+    "fullDescription": "аф"
+  }
+]
