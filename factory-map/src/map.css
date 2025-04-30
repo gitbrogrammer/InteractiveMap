@@ -1,0 +1,14 @@
+.marker {
+    width: 18px;
+    height: 18px;
+    background: red;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 6px rgba(0,0,0,0.2);
+}
+
+.marker-edit {
+    background: #23f;
+    border: 2px solid #ffe600;
+    box-shadow: 0 0 10px #23f;
+}
